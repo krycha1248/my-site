@@ -71,7 +71,7 @@ locale: "pl-PL"
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-permalink: /:title
+permalink: /:title/
 defaults:
   # _posts
   - scope:
