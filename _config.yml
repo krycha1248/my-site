@@ -43,6 +43,7 @@ atom_feed:
   hide: true
 lunr:
   search_full_content: true
+  search_within_pages: true
 
 # Build settings
 theme: minimal-mistakes-jekyll
