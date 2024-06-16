@@ -37,14 +37,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   Zagadnienia związane z administracją serwerami Linux.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wlodek.net" # the base hostname & protocol for your site, e.g. http://example.com
-breadcrumbs: true
-breadcrumb_home_label : "Start"
-breadcrumb_separator  : ">"
+breadcrumbs: false
 search: false
 atom_feed:
   hide: true
 lunr:
-  search_full_content: true
   search_within_pages: true
 
 # Build settings
