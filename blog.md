@@ -3,4 +3,4 @@ title: Blog
 layout: posts
 ---
 ---
-> Tu na razie jest **ściernisko**, ale będzie **San Francisco**.
+> Jeśli spodziewasz się treści, to dobrze się składa, bo my też. Niestety, oboje zostaliśmy zawiedzeni.
