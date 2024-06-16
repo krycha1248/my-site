@@ -2,6 +2,6 @@ main:
   - title: "Strona główna"
     url: /
   - title: "Blog"
-    url: /blog/
+    url: /blog.html
   - title: "Panel"
     url: "https://panel.wlodek.net"
