@@ -38,11 +38,11 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wlodek.net" # the base hostname & protocol for your site, e.g. http://example.com
 breadcrumbs: false
-search: false
+search: true
 atom_feed:
   hide: true
 lunr:
-  search_within_pages: true
+  search_full_content: true
 
 # Build settings
 theme: minimal-mistakes-jekyll
@@ -82,6 +82,7 @@ defaults:
       read_time: true
       share: true
       related: false
+      enable_copy_code_button: true
   # _pages
   - scope:
       path: ""
