@@ -10,7 +10,7 @@ classes: wide
 
 ## Wprowadzenie
 
-Witaj! Jestem Krystian Włodek, entuzjasta technologii z pasją do administracji systemów oraz automatyzacji infrastruktury IT. Moja przygoda z informatyką rozpoczęła się na Politechnice AT, gdzie studiuję informatykę. Moje główne zainteresowania koncentrują się wokół projektowania i zarządzania efektywnymi rozwiązaniami IT, aspirując jednocześnie do roli DevOps Engineer. Zapraszam do zapoznania się z moimi doświadczeniami i osiągnięciami poniżej!
+Cześć! Jestem Krystian Włodek, pasjonat technologii z zamiłowaniem do administracji systemów i automatyzacji infrastruktury IT. Moje główne obszary zainteresowań to administrowanie serwerami, sieciami i chmurami. Dążę do tego, by zostać DevOps Engineer'em. Zachęcam do zapoznania się z moim doświadczeniem i osiągnięciami poniżej!
 
 ## Moje Kompetencje
 
@@ -29,6 +29,10 @@ Witaj! Jestem Krystian Włodek, entuzjasta technologii z pasją do administracji
 4. **Automatyzacja i konfiguracja:**
    - Znajomość skryptów bash.
    - Znajomość Ansible.
+   - Znajomość procesów CI/CD.
+   - Znajomość narzędzia Github Actions.
+   - Podstawowa znajomość technologii chmurowej OpenStack (OVH) od strony użytkownika.
+   - Znajomość Terraform.
 
 5. **Wirtualizacja i konteneryzacja:**
    - Podstawowa znajomość wirtualizacji (Proxmox).
@@ -41,8 +45,6 @@ Witaj! Jestem Krystian Włodek, entuzjasta technologii z pasją do administracji
 
 7. **Inne technologie:**
    - Znajomość CMS WordPress.
-   - Podstawowa znajomość technologii chmurowej OpenStack (OVH) od strony użytkownika.
-   - Znajomość Terraform.
    - Podstawowa znajomość oprogramowania AutoDesk AutoCAD.
 
 ### Certyfikaty i kwalifikacje
