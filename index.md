@@ -41,7 +41,6 @@ Cześć! Jestem Krystian Włodek, pasjonat technologii z zamiłowaniem do admini
 6. **Sieci komputerowe:**
    - Podstawowa znajomość sieci TCP/IP.
    - Znajomość tuneli VPN Wireguard.
-   - Certyfikaty CCNA R&S i CCNAv7: Introduction to Networks.
 
 7. **Inne technologie:**
    - Znajomość CMS WordPress.

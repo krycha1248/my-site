@@ -1,7 +1,7 @@
 main:
   - title: "Strona główna"
     url: /
-#  - title: "Blog"
-#    url: /blog/
+  - title: "Blog"
+    url: /blog/
   - title: "Panel"
     url: "https://panel.wlodek.net"
