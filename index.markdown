@@ -73,4 +73,5 @@ Wspólnie z kolegą, który zajmuje się tworzeniem aplikacji internetowych, stw
 
 ***
 
-> Część projektów dostępna jest na moim [GitHubie](https://github.com/krycha1248).
+> Część projektów dostępna jest na moim [GitHubie](https://github.com/krycha1248). <br>
+> W tym [kod źródłowy](https://github.com/krycha1248/my-site) tej strony.
