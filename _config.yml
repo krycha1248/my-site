@@ -84,6 +84,7 @@ defaults:
       share: true
       related: false
       enable_copy_code_button: true
+      sitemap: false
   # _pages
   - scope:
       path: ""
@@ -91,6 +92,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sitemap: false
 kramdown:
   auto_ids: false
 
