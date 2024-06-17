@@ -93,6 +93,11 @@ defaults:
       layout: single
       author_profile: true
       sitemap: false
+  - scope:
+      path: "/"
+      type: pages
+    values:
+      sitemap: true
 kramdown:
   auto_ids: false
 
