@@ -4,5 +4,5 @@ layout: posts
 classes: wide
 ---
 ---
-> Jeśli spodziewasz się treści, to dobrze się składa, bo my też. 
-> Niestety, my też jesteśmy zawiedzeni jej brakiem. Coś nie poszło nie tak.
+> Jeśli spodziewasz się treści, to dobrze się składa, bo ja też. 
+> Niestety, nie chce mi się nic na ten moment pisać. Być może już tak zostanie.
