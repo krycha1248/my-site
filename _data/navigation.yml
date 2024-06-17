@@ -3,7 +3,7 @@ main:
     url: /
   - title: "Blog"
     url: /blog/
-  - title: "Do pobrania"
-    url: /downloads/
+#  - title: "Do pobrania"
+#    url: /downloads/
   - title: "Panel"
     url: "https://panel.wlodek.net"
