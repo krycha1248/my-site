@@ -93,3 +93,6 @@ defaults:
       author_profile: true
 kramdown:
   auto_ids: false
+
+include:
+  - robots.txt
