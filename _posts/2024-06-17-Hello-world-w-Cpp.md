@@ -1,5 +1,6 @@
 ---
 classes: wide
+title: Hello world w C++
 ---
 ```cpp
 #include <iostream>
