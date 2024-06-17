@@ -23,6 +23,7 @@ subtitle: Administrator IT
 name: Krystian Włodek
 logo: /assets/images/logo.png
 og_image: /assets/images/logo.png
+timezone: Europe/Warsaw
 author:
   name     : "Krystian Włodek"
   #avatar   : "/assets/images/logo.png"
