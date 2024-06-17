@@ -4,7 +4,7 @@
 
 layout: single
 classes: wide
-
+sitemap: true
 ---
 # O mnie
 
