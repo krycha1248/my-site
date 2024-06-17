@@ -35,7 +35,7 @@ author:
 email: "krystian@wlodek.net"
 description: >- # this means to ignore newlines until "baseurl:"
   Zagadnienia związane z administracją serwerami Linux.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://wlodek.net" # the base hostname & protocol for your site, e.g. http://example.com
 breadcrumbs: false
 search: true
