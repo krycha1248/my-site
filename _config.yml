@@ -35,7 +35,7 @@ author:
       url: "https://github.com/krycha1248"
 email: "krystian@wlodek.net"
 description: >- # this means to ignore newlines until "baseurl:"
-  Cześć! Jestem Krystian, pasjonat technologii z zamiłowaniem do administracji systemów i automatyzacji infrastruktury IT. 
+  Jestem Krystian, pasjonat technologii z zamiłowaniem do administracji systemów i automatyzacji infrastruktury IT. 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://wlodek.net" # the base hostname & protocol for your site, e.g. http://example.com
 breadcrumbs: false
