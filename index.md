@@ -7,7 +7,6 @@ classes: wide
 
 ---
 # O mnie
----
 
 ## Wprowadzenie
 
