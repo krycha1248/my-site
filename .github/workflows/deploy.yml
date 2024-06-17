@@ -22,8 +22,8 @@ jobs:
           bundler-cache: true
       - name: Build jekyll site
         run: bundler exec jekyll build
-        env:
-          JEKYLL_ENV: production
+        #env:
+        #  JEKYLL_ENV: production
       - name: Send the site via FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
