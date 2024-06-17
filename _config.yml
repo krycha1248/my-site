@@ -42,8 +42,8 @@ breadcrumbs: false
 search: true
 atom_feed:
   hide: true
-lunr:
-  search_within_pages: true
+#lunr:
+#  search_within_pages: true
 
 # Build settings
 theme: minimal-mistakes-jekyll
