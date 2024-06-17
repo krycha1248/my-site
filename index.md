@@ -33,7 +33,7 @@ Cześć! Jestem Krystian, pasjonat technologii z zamiłowaniem do administracji 
    - Bash,
    - ZSH,
    - Ansible,
-   - CI/CD (GH Actions),
+   - CI/CD (GitHub Actions),
    - Terraform,
    - OpenStack (OVH) od strony użytkownika,
 
