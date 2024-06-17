@@ -17,7 +17,7 @@ Cześć! Jestem Krystian, pasjonat technologii z zamiłowaniem do administracji 
 ### Umiejętności techniczne
 
 1. **Systemy operacyjne:**
-   - linux (Debian, RedHat)
+   - Linux (Debian, RedHat)
    - RouterOS (Mikrotik).
 
 2. **Web serwery:**
