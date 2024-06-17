@@ -79,5 +79,4 @@ Ze znajomym, który zajmuje się tworzeniem aplikacji internetowych, stworzyłem
 
 ***
 
-> Część projektów dostępna jest na moim [GitHubie](https://github.com/krycha1248), <br>
-> w tym [kod źródłowy](https://github.com/krycha1248/my-site) tej strony.
+> Część projektów dostępna jest na moim [GitHubie](https://github.com/krycha1248), w tym [kod źródłowy](https://github.com/krycha1248/my-site) tej strony.
