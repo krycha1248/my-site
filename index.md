@@ -17,34 +17,39 @@ Cześć! Jestem Krystian, pasjonat technologii z zamiłowaniem do administracji 
 ### Umiejętności techniczne
 
 1. **Systemy operacyjne:**
-   - Znajomość systemów z rodziny Debian.
-   - Znajomość systemu RouterOS (Mikrotik).
+   - linux (Debian, RedHat)
+   - RouterOS (Mikrotik).
 
 2. **Web serwery:**
-   - Znajomość web serwerów (Linux, PHP, MySQL, Nginx, Redis).
+   - (Linux, PHP, MySQL, Nginx, Redis).
 
 3. **Serwery poczty:**
-   - Podstawowa znajomość serwerów poczty (Postfix, Dovecot, Spamassassin, Rspamd).
+   - Postfix, 
+   - Dovecot,
+   - Spamassassin,
+   - Rspamd,
 
 4. **Automatyzacja i konfiguracja:**
-   - Znajomość skryptów bash.
-   - Znajomość Ansible.
-   - Znajomość procesów CI/CD.
-   - Znajomość narzędzia Github Actions.
-   - Podstawowa znajomość technologii chmurowej OpenStack (OVH) od strony użytkownika.
-   - Znajomość Terraform.
+   - Bash,
+   - ZSH,
+   - Ansible,
+   - CI/CD (GH Actions),
+   - Terraform,
+   - OpenStack (OVH) od strony użytkownika,
 
 5. **Wirtualizacja i konteneryzacja:**
-   - Podstawowa znajomość wirtualizacji (Proxmox).
-   - Podstawowa znajomość Docker’a.
+   - Proxmox,
+   - Docker,
 
 6. **Sieci komputerowe:**
-   - Podstawowa znajomość sieci TCP/IP.
-   - Znajomość tuneli VPN Wireguard.
+   - sieci TCP/IP,
+   - VPN (Wireguard),
+   - RouterOS (Mikrotik),
+   - IOS (Cisco),
 
 7. **Inne technologie:**
-   - Znajomość CMS WordPress.
-   - Podstawowa znajomość oprogramowania AutoDesk AutoCAD.
+   - CMS WordPress,
+   - AutoDesk AutoCAD,
 
 ### Certyfikaty i kwalifikacje
 
