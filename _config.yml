@@ -28,7 +28,7 @@ author:
   name     : "Krystian Włodek"
   #avatar   : "/assets/images/logo.png"
   bio      : "Entuzjasta w dziedzinie szeroko pojętej administracji IT oraz automatyzacji infrastruktury w chmurze."
-  email: "krystian@wlodek.net"
+  #email: "krystian@wlodek.net"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
