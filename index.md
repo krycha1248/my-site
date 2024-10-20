@@ -65,7 +65,7 @@ Cześć! Jestem Krystian, pasjonat technologii z zamiłowaniem do administracji 
 
 W mojej sieci domowej korzystam z urządzeń sieciowych firmy MikroTik, które składają się z dwóch routerów. Pierwszy z nich pełni rolę brzegowego routera, zapory sieciowej, serwera VPN oraz kontrolera Capsman. Drugi natomiast działa jako punkt dostępowy.
 
-Na brzegowym routerze skonfigurowałem kilka sieci VLAN, zapórę sieciową, kontroler Capsman dla sieci bezprzewodowych oraz serwer VPN (Wireguard).
+Na brzegowym routerze skonfigurowałem kilka sieci VLAN, zaporę sieciową, kontroler Capsman dla sieci bezprzewodowych oraz serwer VPN (Wireguard).
 
 Dodatkowo w mojej sieci działa fizyczny serwer z zainstalowanym Proxmox, który jest połączony z routerem poprzez łącze Trunk. Dzięki temu wszystkie kontenery i maszyny wirtualne na Proxmox mają dostęp do wszystkich sieci VLAN.
 
